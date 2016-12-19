@@ -1,4 +1,4 @@
-# JavaScript - Fundamentals #
+# NodeJS - Fundamentals #
 
 This is an overview of the NodeJS language to help new developers get up and running.
 

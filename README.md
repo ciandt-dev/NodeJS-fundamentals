@@ -12,7 +12,8 @@ Could be studied by day as individual, group and/or dojo.
 ## Content index ##
 
 ### Module 1 (1h) ###
-* [Simple HTTP Server](https://www.npmjs.com/package/http-server)
+* [HTTP server](https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/)
+  * [HTTP-Server: package](https://www.npmjs.com/package/http-server)
 * [Command Line arguments](https://nodejs.org/docs/latest/api/process.html#process_process_argv) 
 * [Environment variables](https://nodejs.org/api/process.html#process_process_env)
 * [_Require_ module](https://darrenderidder.github.io/talks/ModulePatterns/#/)

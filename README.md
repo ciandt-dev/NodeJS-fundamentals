@@ -21,9 +21,11 @@ Could be studied by day as individual, group and/or dojo.
 > [Exercise 1](./exercises/1.module.md)
 
 ### Module 2 (1h) ###
-* ExpressJS
-* Handling url parameters
-* Handling body parameters
-* Response types
+* [ExpressJS](http://expressjs.com/en/)
+* [Routes](http://expressjs.com/en/guide/routing.html#route-paths)
+    * [parameters](http://expressjs.com/en/api.html#req.params)
+    * [query-string](http://expressjs.com/en/api.html#req.query)
+* [Request body](http://expressjs.com/en/api.html#req.body)
+* [Response types](http://expressjs.com/en/api.html#res.send)
 
 > [Exercise 2](./exercises/2.module.md)

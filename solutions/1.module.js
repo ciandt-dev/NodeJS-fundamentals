@@ -18,7 +18,7 @@ function handleRequest(request, response) {
       response.setHeader('Content-Type', 'application/json');
       body = JSON.stringify({
         id: 1,
-        name: 'Dojo'
+        route: 'json'
       });
       break;
     case '/html':

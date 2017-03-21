@@ -34,7 +34,7 @@ Could be studied by day as individual, group and/or dojo.
 * [File System](https://nodejs.org/api/fs.html)
     * [readFile](https://nodejs.org/api/fs.html#fs_fs_readfile_file_options_callback)
     * [readFileSync](https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options)
-* [Path](http://expressjs.com/en/api.html#req.body)
+* [Path](https://nodejs.org/api/path.html)
     * [dirname](https://nodejs.org/api/path.html#path_path_dirname_path)
     * [extname](https://nodejs.org/api/path.html#path_path_extname_path)
     * [join](https://nodejs.org/api/path.html#path_path_join_paths)

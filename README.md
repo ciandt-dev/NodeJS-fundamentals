@@ -29,3 +29,19 @@ Could be studied by day as individual, group and/or dojo.
 * [Response types](http://expressjs.com/en/api.html#res.send)
 
 > [Exercise 2](./exercises/2.module.md)
+
+### Module 3 (1h) ###
+* [File System](https://nodejs.org/api/fs.html)
+    * [readFile](https://nodejs.org/api/fs.html#fs_fs_readfile_file_options_callback)
+    * [readFileSync](https://nodejs.org/api/fs.html#fs_fs_readfilesync_file_options)
+* [Path](http://expressjs.com/en/api.html#req.body)
+    * [dirname](https://nodejs.org/api/path.html#path_path_dirname_path)
+    * [extname](https://nodejs.org/api/path.html#path_path_extname_path)
+    * [join](https://nodejs.org/api/path.html#path_path_join_paths)
+    * [normalize](https://nodejs.org/api/path.html#path_path_normalize_path)
+* [Globals](https://nodejs.org/api/globals.html)
+    * [__dirname](https://nodejs.org/api/globals.html#globals_dirname)
+    * [__filename](https://nodejs.org/api/globals.html#globals_filename)
+* [Promises](https://strongloop.com/strongblog/promises-in-node-js-an-alternative-to-callbacks/)
+
+> [Exercise 3](./exercises/3.module.md)
